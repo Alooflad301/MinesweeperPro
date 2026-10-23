@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_500">#6750A4</color>
+    <color name="purple_700">#4F378B</color>
+
+    <color name="number_1">#1565C0</color>
+    <color name="number_2">#2E7D32</color>
+    <color name="number_3">#C62828</color>
+    <color name="number_4">#4527A0</color>
+    <color name="number_5">#AD1457</color>
+    <color name="number_6">#00838F</color>
+    <color name="number_7">#37474F</color>
+    <color name="number_8">#5D4037</color>
+</resources>

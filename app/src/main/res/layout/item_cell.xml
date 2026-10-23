@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="false"
+    android:focusable="false"
+    android:longClickable="false">
+
+    <TextView
+        android:id="@+id/tvCell"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_cell_closed"
+        android:clickable="false"
+        android:focusable="false"
+        android:longClickable="false"
+        android:gravity="center"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:id="@+id/ivCellIcon"
+        android:layout_width="22dp"
+        android:layout_height="22dp"
+        android:layout_gravity="center"
+        android:clickable="false"
+        android:focusable="false"
+        android:longClickable="false"
+        android:contentDescription="@null"
+        android:visibility="gone" />
+
+</FrameLayout>
